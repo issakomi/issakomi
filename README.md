@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @issakomi
 - 👀 I’m interested in medical imaging, computer graphics (OpenGL, Vulkan)
-- 📫 Reach me: mihail.isakov@gmail.com
+- 📫 Reach me: mihail.isakov at gmail.com
 
 <!---
 issakomi/issakomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
