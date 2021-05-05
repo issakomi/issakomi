@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @issakomi
-- 👀 I’m interested in medical imaging, computer graphics
 - 📫 Reach me: mihail.isakov at gmail.com
 
 <!---
