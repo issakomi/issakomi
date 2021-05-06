@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @issakomi
-- 📫 Reach me: mihail.isakov at gmail.com
+- 📫 Reach me: mihail.isakov at gmail com
 
 <!---
 issakomi/issakomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
